@@ -5,6 +5,9 @@ publishDate: 2017-01-09
 ---
 
 
+- Source
+
+  - https://github.com/ReactTraining/react-router
 
 - Demo Features:
 
@@ -27,8 +30,8 @@ publishDate: 2017-01-09
 
 
 ### Running the app
-    ```
-    npm install
+  ```
+  npm install
 
-    npm start
-    ```
+  npm start
+  ```
