@@ -26,7 +26,7 @@ publishDate: 2017-01-09
   ```
 
 
-  ### start
+  ### Running the app
     ```
     npm install
 
