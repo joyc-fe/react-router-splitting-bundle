@@ -15,7 +15,7 @@ publishDate: 2017-01-09
 
 
 
-  ### set port in server.js
+### set port in server.js
 
   ```js
 
@@ -26,7 +26,7 @@ publishDate: 2017-01-09
   ```
 
 
-  ### Running the app
+### Running the app
     ```
     npm install
 
