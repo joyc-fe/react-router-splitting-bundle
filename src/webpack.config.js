@@ -6,6 +6,10 @@ var webpack = require('webpack')
 
 module.exports = {
 
+
+  // webpack调试可以看到源码
+  devtool: 'inline-source-map',
+
   entry: fs.readdirSync(__dirname).reduce(function (entries, dir) {
     if (fs.statSync(path.join(__dirname, dir)).isDirectory())
       entries[dir] = path.join(__dirname, dir, 'app.js')
